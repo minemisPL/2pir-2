@@ -10,8 +10,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5b922aa-626d-467f-a588-c84a79384c24" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    <list default="true" id="a5b922aa-626d-467f-a588-c84a79384c24" name="Default Changelist" comment="Przykładowa strona z kotolaskami">
+      <change afterPath="$PROJECT_DIR$/.idea/2pir-2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +31,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
   </component>
   <component name="ProjectId" id="1jSLoWyPe0uueUOChCzrxnIpu4s" />
   <component name="ProjectViewState">
@@ -47,8 +52,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603792721552</updated>
-      <workItem from="1603792723019" duration="946000" />
+      <workItem from="1603792723019" duration="1253000" />
     </task>
+    <task id="LOCAL-00001" summary="Przykładowa strona z kotolaskami">
+      <created>1603793986195</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603793986195</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Przykładowa strona z kotolaskami">
+      <created>1603794185483</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603794185483</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -65,14 +85,18 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Przykładowa strona z kotolaskami" />
+    <option name="LAST_COMMIT_MESSAGE" value="Przykładowa strona z kotolaskami" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="542" y="236" width="1200" height="800" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1603793876461">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="542" y="236" width="1200" height="800" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1603793876461" />
-    <state x="1142" y="174" width="1200" height="800" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1603793876461">
+    <state x="334" y="245" width="1200" height="615" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1603794185710">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="1142" y="174" width="1200" height="800" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1603793876461" />
+    <state x="334" y="245" width="1200" height="615" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1603794185710" />
   </component>
 </project>
